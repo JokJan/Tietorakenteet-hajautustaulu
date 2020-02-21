@@ -17,6 +17,6 @@ The values are stored into a class meant to save key-value pairs.
 The code and comments are in finnish.
 
 ## To do:
-*Ask the user for the size of the hashtable and the names of the input files
-*Headers for the output files
-*Make the hashtable change its size based on how full it is
+* Ask the user for the size of the hashtable and the names of the input files
+* Headers for the output files
+* Make the hashtable change its size based on how full it is
